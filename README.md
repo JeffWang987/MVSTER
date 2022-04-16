@@ -78,7 +78,7 @@ In ``evaluations/dtu/BaseEvalMain_web.m``, set `dataPath` as the path to `Sample
 |                       | Acc.   | Comp.  | Overall. | Inf. Time |
 |-----------------------|--------|--------|----------|-----------|
 | MVSTER (mid size)     | 0.350  | 0.276  | 0.313    |    0.09s  |
-| MVSTER (raw size)     | 0.325  | 0.385  | 0.355    |    0.17s  |
+| MVSTER (raw size)     | 0.340  | 0.266  | 0.303    |    0.17s  |
 
 Point cloud results on [DTU](https://github.com/JeffWang987/MVSTER/releases/tag/DTU_ply), [Tanks and Temples](https://github.com/JeffWang987/MVSTER/releases/tag/T%26T_ply), [ETH3D](httpse://github.com/JeffWang987/MVSTER/releases/tag/ETH3D_ply)
 
