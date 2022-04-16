@@ -1,0 +1,4 @@
+outputs/
+checkpoints/
+debug_figs/
+*__pycache__
