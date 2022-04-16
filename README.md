@@ -82,7 +82,7 @@ In ``evaluations/dtu/BaseEvalMain_web.m``, set `dataPath` as the path to `Sample
 
 Point cloud results on [DTU](https://github.com/JeffWang987/MVSTER/releases/tag/DTU_ply), [Tanks and Temples](https://github.com/JeffWang987/MVSTER/releases/tag/T%26T_ply), [ETH3D](https://github.com/JeffWang987/MVSTER/releases/tag/ETH3D_ply)
 
-![](img/vegtables.gif) ![](img/house.gif) 
+![](img/vegatables.gif) ![](img/house.gif) 
 
 ![](img/sculpture.gif) ![](img/rabit.gif)
 
