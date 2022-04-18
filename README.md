@@ -1,5 +1,5 @@
 # MVSTER
-MVSTER: Epipolar Transformer for Efficient Multi-View Stereo
+MVSTER: Epipolar Transformer for Efficient Multi-View Stereo  [arXiv](https://arxiv.org/abs/2204.07346)
 
 This repository contains the official implementation of the paper: "MVSTER: Epipolar Transformer for Efficient Multi-View Stereo".
 
@@ -80,7 +80,7 @@ In ``evaluations/dtu/BaseEvalMain_web.m``, set `dataPath` as the path to `Sample
 | MVSTER (mid size)     | 0.350  | 0.276  | 0.313    |    0.09s  |
 | MVSTER (raw size)     | 0.340  | 0.266  | 0.303    |    0.17s  |
 
-Point cloud results on [DTU](https://github.com/JeffWang987/MVSTER/releases/tag/DTU_ply), [Tanks and Temples](https://github.com/JeffWang987/MVSTER/releases/tag/T%26T_ply), [ETH3D](httpse://github.com/JeffWang987/MVSTER/releases/tag/ETH3D_ply)
+Point cloud results on [DTU](https://github.com/JeffWang987/MVSTER/releases/tag/DTU_ply), [Tanks and Temples](https://github.com/JeffWang987/MVSTER/releases/tag/T%26T_ply), [ETH3D](https://github.com/JeffWang987/MVSTER/releases/tag/ETH3D_ply)
 
 ![](img/vegetables.gif) ![](img/house.gif) 
 
