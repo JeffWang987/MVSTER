@@ -92,7 +92,7 @@ If you find this project useful for your research, please cite:
 @misc{wang2022mvster,
       title={MVSTER: Epipolar Transformer for Efficient Multi-View Stereo}, 
       author={Xiaofeng Wang, Zheng Zhu, Fangbo Qin, Yun Ye, Guan Huang, Xu Chi, Yijia He and Xingang Wang},
-      journal={arXiv preprint arXiv:TODO},
+      journal={arXiv preprint arXiv:2204.07346},
       year={2022}
 }
 ```
