@@ -38,7 +38,7 @@ Train MVSTER (Multi-GPU training):
 ```
 bash ./scripts/train_dtu.sh mid exp_name
 ```
-* Train with raw size (1024x1280):
+* Train with raw size (1200x1600):
 ```
 bash ./scripts/train_dtu.sh raw exp_name
 ```
