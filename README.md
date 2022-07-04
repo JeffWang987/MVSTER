@@ -1,5 +1,5 @@
 # MVSTER
-MVSTER: Epipolar Transformer for Efficient Multi-View Stereo  [arXiv](https://arxiv.org/abs/2204.07346)
+MVSTER: Epipolar Transformer for Efficient Multi-View Stereo, ECCV 2022. [arXiv](https://arxiv.org/abs/2204.07346)
 
 This repository contains the official implementation of the paper: "MVSTER: Epipolar Transformer for Efficient Multi-View Stereo".
 
